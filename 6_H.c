@@ -1,3 +1,6 @@
+//字符串函数明显不熟练
+//字符串的操作不熟练，何时使用何种函数读入
+//由于n后有一个空格，如果不getchar();将导致少读一个字符串
 #include<stdio.h>
 #include<string.h>
 int main() {
