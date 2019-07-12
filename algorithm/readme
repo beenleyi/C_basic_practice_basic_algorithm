@@ -1,0 +1,25 @@
+分治类
+binarysearch 二分搜索
+dc_mypower 分支算power
+mergesortfunction 归并排序三段
+quicksort 三种排序：insertsort,mergesort,quicksort
+kmax 找第k大的元素
+kmaxsearch 找第k大的元素
+produce10w 用来排序的生成十万数字程序
+
+动态规划类
+totalknap 完全背包
+knap 完全背包复杂版
+bag 01背包复杂版
+dp_LCSlength 最大公共子序列
+dp_matrixChain 矩阵连乘
+findsubmax 最大字段和
+
+贪心类
+greedyselector 贪心选工作
+
+回溯类
+backtrack_nqueenq N皇后问题
+backtrack_shipload 船装载问题
+backtrack_tsp 旅行商问题
+backtrack_work 工作调度问题
